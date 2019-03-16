@@ -1,0 +1,1 @@
+pvr.jellyfin https://github.com/escabe/pvr.jellyfin master
